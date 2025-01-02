@@ -30,7 +30,7 @@ Java IDE (Eclipse, IntelliJ IDEA, or similar).
 
 **Installation**
 
-Clone the repository: git clone https://github.com/your-username/dna-sequence-analysis.git
+Clone the repository: git clone (https://github.com/tejasri106/DNA-Sequence-Analysis-Program-.git)
 Open the project in your preferred Java IDE.
 
 **Running the Application**
